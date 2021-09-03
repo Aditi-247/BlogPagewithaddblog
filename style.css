@@ -173,6 +173,9 @@ a{
     object-fit: fill;
     border-radius: 99px;
 }
+#center{
+    text-align: center;
+}
 
 .shadow{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
